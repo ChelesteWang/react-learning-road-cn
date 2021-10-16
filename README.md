@@ -1,5 +1,8 @@
 # 《React 学习之道》The Road to React (简体中文版)
 
+> 本项目仅供个人学习使用，方便阅读使用 docsify 部署到 github page 
+> 原书链接: https://www.roadtoreact.com/ 为免费开源读物
+
 [React 学习之道官方 Repo](http://roadtoreact.com/). 如果有任何建议或意见，请在 [Amazon](https://amzn.to/2LHjxRB) 或 [Goodreads](https://www.goodreads.com/book/show/37503118-the-road-to-learn-react) 留下您的评论。
 
 ## 更新，帮助和支持
