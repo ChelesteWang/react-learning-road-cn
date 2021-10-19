@@ -41,7 +41,7 @@ react-modern/async-await.md
 react-modern/forms.md
 
 react-legacy/class-components.md
-react-legacy/class-components-sate.md
+react-legacy/class-components-state.md
 react-legacy/imperative-react.md
 
 react-styling/css.md
