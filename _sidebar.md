@@ -1,7 +1,7 @@
 - [主页](/README.md)
 - [intro.md](intro.md)
 - **现代特性**
-- [advanced-state.md](react-modern\advanced-state.md)
+- [advanced-state.md](react-modern/advanced-state.md)
 - [async-await.md](react-modern\async-await.md)
 - [asynchronous-data.md](react-modern\asynchronous-data.md)
 - [callback-handlers.md](react-modern\callback-handlers.md)
